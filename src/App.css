@@ -1,0 +1,17 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+body {
+  background: #264653;
+  color: white;
+  height: 100%;
+  font-family: sans-serif; 
+}
+
+#root {
+  min-height: 100%;
+  position: relative;
+}
